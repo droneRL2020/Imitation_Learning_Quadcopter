@@ -3,4 +3,4 @@
 
 
 
-<img src = "https://user-images.githubusercontent.com/34183439/34469374-dbfa4c58-ef60-11e7-99f3-4adb171f4a1e.gif" height="500" width="300")
+<img src = "https://user-images.githubusercontent.com/34183439/34469374-dbfa4c58-ef60-11e7-99f3-4adb171f4a1e.gif" height="600" width="1000">
