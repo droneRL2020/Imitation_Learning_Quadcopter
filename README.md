@@ -20,6 +20,7 @@ I have done this project with DCU_Lab members!!!
 
 ## How to do imitation learning
 
-1. Run Imitation_Learning_Quad.py
+1. run imitation_learning.py script to train
+2. run roll_output.py script to extract roll value
 
 
