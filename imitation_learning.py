@@ -154,7 +154,9 @@ output_file = open('results.txt', 'w')
 #    output_file.write(str(actions_all[i])) 
 
 class Roll:
-    def denormalize_action(self,test_image):
-        this_action = model.predict(img_reshape(test_image))
-        roll_input = act * 2011 + 1496
-        return roll_input
+    def __init__(self, test_image):
+        self.test_image = test_image
+        self.roll = model.predict(img_reshape(test_image)) *2011 + 1496
+     
+    def denormalize_action(self):
+        return self.roll
