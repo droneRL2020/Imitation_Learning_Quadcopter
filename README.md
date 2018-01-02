@@ -1,8 +1,7 @@
 # Imitation_Learning_Quadcopter
 
-I have done this project with DCU_Lab team!!!
+I have done this project with DCU_Lab members!!!
 
-#DCU Lab
 ## Implementation
 
 ### [Hardware Spec]
