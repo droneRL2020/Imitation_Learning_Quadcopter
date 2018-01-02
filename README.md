@@ -3,7 +3,7 @@
 #DCU Lab
 ## Implementation
 
-[Hardware Spec]
+### [Hardware Spec]
 <img src = "https://user-images.githubusercontent.com/34183439/34472255-06da2674-efa1-11e7-8d7b-f3c50830aa79.jpg" width="600" height="400">
 
 ### [How to get Control Input]
