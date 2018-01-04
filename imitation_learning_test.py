@@ -21,4 +21,5 @@ model_1.load_model()
 
 ###===== Denormalize output(roll)
 output_1 = model_1.predict(img_reshape(input_test_image)) * max_control_signal + default_control_signal
-print(output_1)
+print(output_1)  ## Will upload code that gets this output_1 as a control input.
+
