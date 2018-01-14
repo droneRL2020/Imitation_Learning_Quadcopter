@@ -3,8 +3,9 @@
 I have done this project with DCU_Lab members!!! 
 My role on this project were as below.
 * I participated in HW setting
-* I extracted images and combined with control input.
-* I wrote imitation_learning scripts.
+* I participated in extracting images
+* I combined input images with control input(Sync)
+* I wrote imitation_learning scripts(Training, Test)
 
 ## Implementation
 
